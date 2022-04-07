@@ -4,7 +4,7 @@
 <br>
 <ul>
   <li>:computer: Coding daily with javascript.</li>
-  <li>:triangular_ruler: Improving myself by studying typescript with nodejs, focused to become a backend software engineer.</li>
+  <li>:triangular_ruler: Studying to become a better software engineer, focused on backend development with nodejs and typescript.</li>
   <li>:house: I live in São João da Boa Vista, Brazil;</li>
   <li>:e-mail: My email address is <a href="mailto:vinicius.contini@hotmail.com">vinicius.contini@hotmail.com</a>.</li>
 </ul>
