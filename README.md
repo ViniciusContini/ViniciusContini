@@ -1,12 +1,12 @@
 ## :wave: Hello World, I'm Vinicius Contini
-**:office: I currently work as a Support Analyst at [@Perfect Flight](https://github.com/perfect-flight)**.
+**:office: Trabalhando como desenvolvedor na [@Perfect Flight](https://github.com/perfect-flight)**.
 
 <br>
 <ul>
-  <li>:computer: Coding daily with javascript.</li>
-  <li>:triangular_ruler: Studying to become a software engineer, focused on backend development with nodejs and typescript.</li>
-  <li>:house: I live in São João da Boa Vista, Brazil;</li>
-  <li>:e-mail: My email address is <a href="mailto:vinicius.contini@hotmail.com">vinicius.contini@hotmail.com</a>.</li>
+  <li>:computer: Desenvolvendo diariamente com javascript.</li>
+  <li>:triangular_ruler: Estudando para me especializar em engenharia de software.</li>
+  <li>:house: De São João da Boa Vista, Brazil;</li>
+  <li>:e-mail: Email para contato <a href="mailto:vinicius.contini@hotmail.com">vinicius.contini@hotmail.com</a>.</li>
 </ul>
 
 
