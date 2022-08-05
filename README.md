@@ -4,7 +4,7 @@
 <br>
 <ul>
   <li>:computer: Desenvolvendo diariamente com javascript.</li>
-  <li>:triangular_ruler: Estudando para me especializar em engenharia de software.</li>
+  <li>:triangular_ruler: Estudando para me especializar em cloud computing.</li>
   <li>:house: De São João da Boa Vista, Brazil;</li>
   <li>:e-mail: Email para contato <a href="mailto:vinicius.contini@hotmail.com">vinicius.contini@hotmail.com</a>.</li>
 </ul>
